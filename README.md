@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...Hacking
 - 🌱 I’m currently learning ...Ethical Hacking
 - 💞️ I’m looking to collaborate on ...Bug Bounty and Penetration Testing
-- 📫 How to reach me ...
 
 <!---
 MortisA858/MortisA858 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
